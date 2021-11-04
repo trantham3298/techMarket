@@ -244,3 +244,4 @@ class Model
         $query = $this->query($query, $parameters);
     }
 }
+//end code
