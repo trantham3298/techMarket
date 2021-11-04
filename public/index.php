@@ -58,3 +58,4 @@ $app->router->get('/admin/customer', [AdminController::class, 'customer']);
 $app->router->post('/admin/customer', [AdminController::class, 'customer']);
 
 $app->run();
+//end code
