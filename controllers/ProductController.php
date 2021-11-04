@@ -435,3 +435,4 @@ class ProductController extends Controller
         return $this->render('cart');
     }
 }
+//end code
