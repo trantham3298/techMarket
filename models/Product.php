@@ -22,3 +22,4 @@ class Product extends Model
     public $created_at;
     public $updated_at;
 }
+//end code
