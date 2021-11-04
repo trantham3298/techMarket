@@ -1,7 +1,6 @@
 # HTID:17828714: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
 DirectoryIndex public/index.php
 php_value display_errors 1
-# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:17828714:
 
 
 RewriteEngine on
